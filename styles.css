@@ -1,3 +1,10 @@
 .container {
     border: 1px solid red;
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+}
+
+.child_element {
+    border: 1px solid blue;
 }
